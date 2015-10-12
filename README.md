@@ -1,0 +1,1 @@
+# MyOwnClass
